@@ -53,6 +53,7 @@ driver.press_keycode(4)
 time.sleep(2)
 driver.press_keycode(25)
 driver.press_keycode(25)
+11
 """
 # 打开通知栏
 driver.open_notifications()
